@@ -1,0 +1,9 @@
+name = "Dev toolbox"
+id = "devtools"
+version = "0.1.0"
+description = "UUIDs, Unix time, JWTs, colours, base64, URL encoding and hashes: dev 1739000000 · dev #ff8800 · dev eyJ…"
+author = "abidibo"
+homepage = "https://github.com/abidibo/parsec-devtools"
+keywords = ["dev"]
+exec = "main.py"
+icon = "applications-engineering-symbolic"
